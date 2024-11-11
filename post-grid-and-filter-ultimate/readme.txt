@@ -2,8 +2,8 @@
 Tags: post grid, post, post filter, post category filter, custom post grid, grid display, grid, content grid, filter, post designs, grid designs, wponlinesupport
 Contributors: wponlinesupport, anoopranawat, pratik-jain, piyushpatel123, ridhimashukla, patelketan
 Requires at least: 4.0
-Tested up to: 6.4.1
-Stable tag: 1.7
+Tested up to: 6.7
+Stable tag: 1.7.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -150,6 +150,9 @@ Where designs are : design-1, design-2. You can use same parameter with filter s
 2. Post grid filter view.
 
 == Changelog ==
+
+= 1.7.1 (11, Nov 2024) =
+* [*] Check compatibility to WordPress version 6.7
 
 = 1.7 (27, Nov 2023) =
 * [*] Updated analytics SDK.

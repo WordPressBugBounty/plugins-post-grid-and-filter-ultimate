@@ -7,7 +7,7 @@
  * Author URI: https://www.essentialplugin.com/wordpress-plugin/post-grid-filter-ultimate/
  * Text Domain: post-grid-and-filter-ultimate
  * Domain Path: /languages/
- * Version: 1.7
+ * Version: 1.7.1
  *
  * @package WordPress
  * @author WP OnlineSupport
@@ -25,7 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 
 if( ! defined( 'PGAFU_VERSION' ) ) {
-	define( 'PGAFU_VERSION', '1.7' ); // Version of plugin
+	define( 'PGAFU_VERSION', '1.7.1' ); // Version of plugin
 }
 
 if( ! defined( 'PGAFU_NAME' ) ) {
@@ -57,7 +57,7 @@ if( ! defined( 'PGAFU_PLUGIN_BUNDLE_LINK' ) ) {
 }
 
 if( ! defined( 'PGAFU_PLUGIN_LINK_UNLOCK' ) ) {
-	define('PGAFU_PLUGIN_LINK_UNLOCK','https://www.essentialplugin.com/essential-plugin-bundle-pricing/?utm_source=WP&utm_medium=Post-Grid-and-Filter&utm_campaign=Features-PRO'); // Plugin link
+	define('PGAFU_PLUGIN_LINK_UNLOCK','https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Post-Grid-and-Filter&utm_campaign=Features-PRO'); // Plugin link
 }
 
 if( ! defined( 'PGAFU_PLUGIN_LINK_UPGRADE' ) ) {
