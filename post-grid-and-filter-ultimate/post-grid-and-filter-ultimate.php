@@ -1,16 +1,16 @@
 <?php
 /**
- * Plugin Name: Post grid and filter ultimate
+ * Plugin Name: Post Grid and Filter Ultimate
  * Plugin URI: https://www.essentialplugin.com/wordpress-plugin/post-grid-filter-ultimate/
  * Description: Easy to add and display post grid on your website with or without categoryies filter. Also work with Gutenberg shortcode block. 
- * Author: WP OnlineSupport, Essential Plugin
- * Author URI: https://www.essentialplugin.com/wordpress-plugin/post-grid-filter-ultimate/
+ * Author: Essential Plugin
+ * Author URI: https://www.essentialplugin.com
  * Text Domain: post-grid-and-filter-ultimate
  * Domain Path: /languages/
- * Version: 1.7.1
+ * Version: 1.7.2
  *
- * @package WordPress
- * @author WP OnlineSupport
+ * @package Post Grid and Filter Ultimate
+ * @author Essential Plugin
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -25,7 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 
 if( ! defined( 'PGAFU_VERSION' ) ) {
-	define( 'PGAFU_VERSION', '1.7.1' ); // Version of plugin
+	define( 'PGAFU_VERSION', '1.7.2' ); // Version of plugin
 }
 
 if( ! defined( 'PGAFU_NAME' ) ) {

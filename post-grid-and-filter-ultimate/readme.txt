@@ -1,13 +1,13 @@
 ===  Post grid and filter ultimate ===
-Tags: post grid, post, post filter, post category filter, custom post grid, grid display, grid, content grid, filter, post designs, grid designs, wponlinesupport
-Contributors: wponlinesupport, anoopranawat, pratik-jain, piyushpatel123, ridhimashukla, patelketan
+Tags: post grid, post filter, post category filter, post, category filter
+Contributors: essentialplugin
 Requires at least: 4.0
-Tested up to: 6.7
-Stable tag: 1.7.1
+Tested up to: 6.8.1
+Stable tag: 1.7.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A quick, easy way to display WordPress post in grid view and post grid with filter. Also work with Gutenberg shortcode block. 
+A quick, easy way to display WordPress post in grid view and post grid with filter. Also work with Gutenberg shortcode block.
 
 == Description ==
 
@@ -150,6 +150,9 @@ Where designs are : design-1, design-2. You can use same parameter with filter s
 2. Post grid filter view.
 
 == Changelog ==
+
+= 1.7.2 (15, May 2025) =
+* [*] Check compatibility with WordPress version 6.8.1
 
 = 1.7.1 (11, Nov 2024) =
 * [*] Check compatibility to WordPress version 6.7
